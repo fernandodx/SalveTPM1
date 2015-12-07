@@ -1,0 +1,78 @@
+﻿<Page
+    x:Class="SalveTPM1.View.DetalheMulher"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SalveTPM1.View"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock Text="Salve TPM" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0" SelectionChanged="TextBlock_SelectionChanged"/>
+            <TextBlock Text="Detalhes" Margin="0,-6.5,0,15" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+
+            <TextBlock Text="{Binding nomeMulherFormatado}" FontSize="40" FontWeight="Bold"   />
+
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="2" x:Name="ContentDetalhes" Margin="15,5,19,0">
+            <ScrollViewer HorizontalScrollBarVisibility="Visible">
+                <StackPanel >
+                    <TextBlock Text="Início TPM" FontSize="20" FontWeight="Bold"   Foreground="LightPink"  />
+                    <TextBlock Text="{Binding dataInicioTpm}" FontSize="20" Margin="0,2,0,5"/>
+
+                    <TextBlock Text="Fim TPM" FontSize="20" FontWeight="Bold"   Foreground="LightPink"  />
+                    <TextBlock Text="{Binding dataFimTpm}" FontSize="20"  Margin="0,2,0,5"/>
+
+                    <TextBlock Text="Data próxima menstruação" FontSize="20" FontWeight="Bold"   Foreground="LightPink"  />
+                    <TextBlock Text="{Binding dataAproximadaMestruacao}" FontSize="20"  Margin="0,2,0,5"/>
+
+                    <TextBlock Text="Inicio período fértil" FontSize="20" FontWeight="Bold"    Foreground="LightPink" />
+                    <TextBlock Text="{Binding dataInicioPeriodoFertil}" FontSize="20"  Margin="0,2,0,5"/>
+
+                    <TextBlock Text="Fim do período fértil" FontSize="20" FontWeight="Bold"   Foreground="LightPink"  />
+                    <TextBlock Text="{Binding dataFimPeriodoFertil}" FontSize="20"  Margin="0,2,0,5"/>
+
+                    <TextBlock Text="Dia mais fértil" FontSize="20" FontWeight="Bold"   Foreground="LightPink"  />
+                    <TextBlock Text="{Binding dataMaisFertil}" FontSize="20"  Margin="0,2,0,5"/>
+
+                    <TextBlock Text="Nível da TPM" FontSize="20" FontWeight="Bold" Margin="0,2,0,10" HorizontalAlignment="Center"  Foreground="LightPink"/>
+                    <Rectangle  Grid.Column="0"
+                            Grid.Row="0"
+                            Grid.RowSpan="4"
+                            StrokeThickness="0"
+                            Stroke="Azure"
+                            Height="186"
+                            Width="275"
+                            VerticalAlignment="Top">
+
+                        <Rectangle.Fill>
+
+                            <ImageBrush ImageSource="{Binding caminhoImagemTpmPequeno}"  />
+
+                        </Rectangle.Fill>
+
+                    </Rectangle>
+
+                </StackPanel>
+            </ScrollViewer>
+
+        </Grid>
+    </Grid>
+</Page>

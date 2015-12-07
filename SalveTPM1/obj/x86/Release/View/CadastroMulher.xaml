@@ -1,0 +1,73 @@
+﻿<Page
+    x:Class="SalveTPM1.View.CadastroMulher"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SalveTPM1.View"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock Text="Salve TPM" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
+            <TextBlock Text="Add Mulher" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
+
+            <StackPanel Orientation="Vertical" Margin="5,0,0,5">
+               
+                <TextBox Header="Nome" DataContext="{Binding mulherSelecionado}" Text="{Binding nome, Mode=TwoWay}" />
+               
+                <DatePicker x:ConnectionId='1' Header="Data da última mestruacao" 
+                            Name="dataUltimaMestruacao"
+                            DataContext="{Binding mulherSelecionado}" 
+                            CalendarIdentifier="GregorianCalendar"
+                            Date="{Binding mulherSelecionado.dataUltimaMestruacao, Mode=TwoWay}"
+                                                                
+                            />
+                
+                <ComboBox x:ConnectionId='2' x:Name="ComboLigacao" DataContext="{Binding  Mode=TwoWay}"  Header="Ligacao"                                                 >
+       
+                    <ComboBoxItem Content="Namorada" IsSelected="True"/>
+                    <ComboBoxItem Content="Mãe"/>
+                    <ComboBoxItem Content="Irmã" />
+                    <ComboBoxItem Content="Eu" />
+
+                </ComboBox>
+
+                <ToggleSwitch x:ConnectionId='3'  Name="isApresentarStatus" 
+                               Header="Apresentar status na tela inicial"
+                               OffContent="Não" OnContent="Sim" 
+                                                                   
+                               DataContext="{Binding mulherSelecionado.isPrincipal, Mode=TwoWay}"/>
+
+
+            </StackPanel>
+
+
+        </Grid>
+       
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton Content="Salvar" Icon="Save"  Command="{Binding inserirOuAtualizarCommand}" CommandParameter="{Binding mulherSelecionado}" />
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
+

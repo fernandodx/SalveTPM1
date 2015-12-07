@@ -1,0 +1,4 @@
+MainPackage=\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\bin\ARM\Release\SalveTPM1_1.1.0.15_Bundle\SalveTPM1_1.1.0.15_ARM.appx
+ResourcePack=\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\bin\ARM\Release\SalveTPM1_1.1.0.15_Bundle\SalveTPM1_1.1.0.15_language-en.appx
+ResourcePack=\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\bin\ARM\Release\SalveTPM1_1.1.0.15_Bundle\SalveTPM1_1.1.0.15_scale-100.appx
+ResourcePack=\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\bin\ARM\Release\SalveTPM1_1.1.0.15_Bundle\SalveTPM1_1.1.0.15_scale-140.appx

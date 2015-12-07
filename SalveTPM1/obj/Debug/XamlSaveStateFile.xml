@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="\\psf\home\documents\projetos wp\salvetpm1\salvetpm1\obj\debug\intermediatexaml\salvetpm1.exe" HashGuid="5dbd8b0f-ad63-53b2-02b2-a90d56edb335" />
+    <ReferenceAssembly PathName="\\psf\home\documents\projetos wp\salvetpm1\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.extensions.dll" HashGuid="794366f8-cc6d-f0fa-3d07-33b45136e193" />
+    <ReferenceAssembly PathName="\\psf\home\documents\projetos wp\salvetpm1\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="\\psf\home\documents\projetos wp\salvetpm1\packages\writeablebitmapex.1.5.0.0\lib\wpa81\writeablebitmapex.winrt.dll" HashGuid="6dd9ab30-a8ea-e714-1c9c-a07c544a2da6" />
+    <ReferenceAssembly PathName="\\psf\home\documents\projetos wp\salvetpm1\packages\zxing.net.mobile.1.5.4.0\lib\wpa81\zxing.portable.dll" HashGuid="541d3df2-22b4-c425-616f-88dde95603ad" />
+    <ReferenceAssembly PathName="\\psf\home\documents\projetos wp\salvetpm1\packages\zxing.net.mobile.1.5.4.0\lib\wpa81\zxingnetmobile.dll" HashGuid="fa700ce9-ef27-bb60-d9fd-83bf4a80525d" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

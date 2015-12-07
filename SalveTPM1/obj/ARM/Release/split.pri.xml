@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="36412FernandoDiasdeSouza.SalveTPM" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>PT-BR</Language>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SalveTPM1.xr.xml" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/SalveTPM1.xr.xml">
+				<Candidate type="Path">
+					<Value>SalveTPM1.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="BadgeLogo.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/BadgeLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\BadgeLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="fraseFimTpm.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/fraseFimTpm.png">
+					<Candidate type="Path">
+						<Value>Assets\fraseFimTpm.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="fraseInicioTpm.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/fraseInicioTpm.png">
+					<Candidate type="Path">
+						<Value>Assets\fraseInicioTpm.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="fraseMeioTpm.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/fraseMeioTpm.png">
+					<Candidate type="Path">
+						<Value>Assets\fraseMeioTpm.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="fraseMulherNaoAdicionada.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/fraseMulherNaoAdicionada.png">
+					<Candidate type="Path">
+						<Value>Assets\fraseMulherNaoAdicionada.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="fraseQuaseFimTpm.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/fraseQuaseFimTpm.png">
+					<Candidate type="Path">
+						<Value>Assets\fraseQuaseFimTpm.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="fraseSemTpm.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/fraseSemTpm.png">
+					<Candidate type="Path">
+						<Value>Assets\fraseSemTpm.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="medidor.jpg" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/medidor.jpg">
+					<Candidate type="Path">
+						<Value>Assets\medidor.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Medidor.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/Medidor.png"/>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="velocimetroSemTpm.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/velocimetroSemTpm.png">
+					<Candidate type="Path">
+						<Value>Assets\velocimetroSemTpm.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="velocimetroSemTpmPequeno.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/velocimetroSemTpmPequeno.png">
+					<Candidate type="Path">
+						<Value>Assets\velocimetroSemTpmPequeno.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="velocimetroTpm1.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/velocimetroTpm1.png">
+					<Candidate type="Path">
+						<Value>Assets\velocimetroTpm1.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="velocimetroTpm1Pequeno.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/velocimetroTpm1Pequeno.png">
+					<Candidate type="Path">
+						<Value>Assets\velocimetroTpm1Pequeno.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="velocimetroTpm2.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/velocimetroTpm2.png">
+					<Candidate type="Path">
+						<Value>Assets\velocimetroTpm2.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="velocimetroTpm2Pequeno.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/velocimetroTpm2Pequeno.png">
+					<Candidate type="Path">
+						<Value>Assets\velocimetroTpm2Pequeno.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="velocimetroTpm3.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/velocimetroTpm3.png">
+					<Candidate type="Path">
+						<Value>Assets\velocimetroTpm3.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="velocimetroTpm3Pequeno.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/velocimetroTpm3Pequeno.png">
+					<Candidate type="Path">
+						<Value>Assets\velocimetroTpm3Pequeno.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="velocimetroTpm4.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/velocimetroTpm4.png">
+					<Candidate type="Path">
+						<Value>Assets\velocimetroTpm4.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="velocimetroTpm4Pequeno.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/velocimetroTpm4Pequeno.png">
+					<Candidate type="Path">
+						<Value>Assets\velocimetroTpm4Pequeno.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideLogo.png" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Common">
+				<NamedResource name="ReadMe.txt" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/Common/ReadMe.txt">
+					<Candidate type="Path">
+						<Value>Common\ReadMe.txt</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="DataModel">
+				<NamedResource name="SampleData.json" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/DataModel/SampleData.json">
+					<Candidate type="Path">
+						<Value>DataModel\SampleData.json</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="View">
+				<NamedResource name="CadastroMulher.xbf" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/View/CadastroMulher.xbf">
+					<Candidate type="Path">
+						<Value>View\CadastroMulher.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DetalheMulher.xbf" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/View/DetalheMulher.xbf">
+					<Candidate type="Path">
+						<Value>View\DetalheMulher.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PivotPage.xbf" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Files/View/PivotPage.xbf">
+					<Candidate type="Path">
+						<Value>View\PivotPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Resources">
+			<NamedResource name="NavigationFailedExceptionMessage" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Resources/NavigationFailedExceptionMessage">
+				<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+					<Value>Falha na navegacao.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NewItemDescription" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Resources/NewItemDescription">
+				<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+					<Value>Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NewItemTitle" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Resources/NewItemTitle">
+				<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+					<Value>Item Title: {0}</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="AddAppBarButton">
+				<NamedResource name="Label" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Resources/AddAppBarButton/Label">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>add</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Header">
+				<NamedResource name="Text" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Resources/Header/Text">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>Salve TPM</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Pivot">
+				<NamedResource name="Title" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Resources/Pivot/Title">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>Salve TPM</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="PivotItem1">
+				<NamedResource name="Header" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Resources/PivotItem1/Header">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>Principal</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="PivotItem2">
+				<NamedResource name="Header" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Resources/PivotItem2/Header">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>Lista</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="SecondaryButton1">
+				<NamedResource name="Label" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Resources/SecondaryButton1/Label">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>secondary command 1</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="SecondaryButton2">
+				<NamedResource name="Label" uri="ms-resource://36412FernandoDiasdeSouza.SalveTPM/Resources/SecondaryButton2/Label">
+					<Candidate qualifiers="Language-PT-BR" isDefault="true" type="String">
+						<Value>secondary command 2</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

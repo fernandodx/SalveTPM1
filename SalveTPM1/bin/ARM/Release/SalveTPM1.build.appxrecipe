@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>FERNANDODIA7DD5</Machine>
+    <WindowsUser>Rodrigo</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>2164c145-5115-46cd-acda-6d646615234a</PackageIdentityName>
+    <IntermediateOutputPath>\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\obj\ARM\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\bin\ARM\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\bin\ARM\Release\SalveTPM1.exe">
+      <PackagePath>SalveTPM1.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\SQLite.WP81\3.8.10\Redist\Retail\ARM\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\BadgeLogo.scale-140.png">
+      <PackagePath>Assets\BadgeLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\BadgeLogo.scale-240.png">
+      <PackagePath>Assets\BadgeLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\fraseFimTpm.png">
+      <PackagePath>Assets\fraseFimTpm.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\fraseInicioTpm.png">
+      <PackagePath>Assets\fraseInicioTpm.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\fraseMeioTpm.png">
+      <PackagePath>Assets\fraseMeioTpm.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\fraseMulherNaoAdicionada.png">
+      <PackagePath>Assets\fraseMulherNaoAdicionada.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\fraseQuaseFimTpm.png">
+      <PackagePath>Assets\fraseQuaseFimTpm.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\fraseSemTpm.png">
+      <PackagePath>Assets\fraseSemTpm.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\Medidor.scale-100.png">
+      <PackagePath>Assets\Medidor.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\Square150x150Logo.scale-140.png">
+      <PackagePath>Assets\Square150x150Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\Square150x150Logo.scale-240.png">
+      <PackagePath>Assets\Square150x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\Square71x71Logo.scale-140.png">
+      <PackagePath>Assets\Square71x71Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\velocimetroSemTpm.png">
+      <PackagePath>Assets\velocimetroSemTpm.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\velocimetroSemTpmPequeno.png">
+      <PackagePath>Assets\velocimetroSemTpmPequeno.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\velocimetroTpm1.png">
+      <PackagePath>Assets\velocimetroTpm1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\velocimetroTpm1Pequeno.png">
+      <PackagePath>Assets\velocimetroTpm1Pequeno.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\velocimetroTpm2.png">
+      <PackagePath>Assets\velocimetroTpm2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\velocimetroTpm2Pequeno.png">
+      <PackagePath>Assets\velocimetroTpm2Pequeno.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\velocimetroTpm3.png">
+      <PackagePath>Assets\velocimetroTpm3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\velocimetroTpm3Pequeno.png">
+      <PackagePath>Assets\velocimetroTpm3Pequeno.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\velocimetroTpm4.png">
+      <PackagePath>Assets\velocimetroTpm4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\velocimetroTpm4Pequeno.png">
+      <PackagePath>Assets\velocimetroTpm4Pequeno.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\Wide310x150Logo.scale-240.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\WideLogo.scale-140.png">
+      <PackagePath>Assets\WideLogo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Assets\medidor.jpg">
+      <PackagePath>Assets\medidor.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\bin\ARM\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\bin\ARM\Release\View\CadastroMulher.xbf">
+      <PackagePath>View\CadastroMulher.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\bin\ARM\Release\View\DetalheMulher.xbf">
+      <PackagePath>View\DetalheMulher.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\bin\ARM\Release\View\PivotPage.xbf">
+      <PackagePath>View\PivotPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\bin\ARM\Release\SalveTPM1.xr.xml">
+      <PackagePath>SalveTPM1.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\bin\ARM\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Phone</Name>
+      <Version>12.0.30113.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Phone, MinVersion = 12.0.30113.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.12.00.Phone.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Phone</Name>
+      <Version>12.0.30113.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Phone, MinVersion = 12.0.30113.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.12.00.Phone.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

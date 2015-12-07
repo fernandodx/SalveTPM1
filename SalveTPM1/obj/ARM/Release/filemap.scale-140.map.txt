@@ -1,0 +1,11 @@
+﻿[ResourceMetadata]
+"ResourceId"			"filemap.scale-140"
+"ResourceDimensions"		"scale-140"
+
+[Files]
+"\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\obj\ARM\Release\filemap.scale-140.pri"			"resources.pri"
+"\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\obj\ARM\Release\PackageLayout\Assets\WideLogo.scale-140.png"			"Assets\WideLogo.scale-140.png"
+"\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\obj\ARM\Release\PackageLayout\Assets\Square71x71Logo.scale-140.png"			"Assets\Square71x71Logo.scale-140.png"
+"\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\obj\ARM\Release\PackageLayout\Assets\Square150x150Logo.scale-140.png"			"Assets\Square150x150Logo.scale-140.png"
+"\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\obj\ARM\Release\PackageLayout\Assets\SplashScreen.scale-140.png"			"Assets\SplashScreen.scale-140.png"
+"\\psf\Home\Documents\Projetos WP\SalveTPM1\SalveTPM1\obj\ARM\Release\PackageLayout\Assets\BadgeLogo.scale-140.png"			"Assets\BadgeLogo.scale-140.png"
